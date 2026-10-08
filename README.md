@@ -1,6 +1,6 @@
 # Claude skills for designers
 
-Four Claude Code skills for product design work, built from my own [playbook](https://github.com/miguelclavel/product-design-playbook), [prompts](https://github.com/miguelclavel/ai-prompts-for-designers) and checklists. Install one and Claude knows how to do that job the way I'd do it: grounded in what it can actually see, honest about what it can't, and specific about the fix.
+Ten Claude Code skills for product design work, built from my own [playbook](https://github.com/miguelclavel/product-design-playbook), [prompts](https://github.com/miguelclavel/ai-prompts-for-designers) and checklists. Install one and Claude knows how to do that job the way I'd do it: grounded in what it can actually see, honest about what it can't, and specific about the fix.
 
 By [Miguel Clavel](https://github.com/miguelclavel), Senior Product Designer. I build with Claude Code: my [chat portfolio](https://github.com/miguelclavel/chat-portfolio), [miguelclavel.com](https://github.com/miguelclavel/miguelclavel.com) and everything in this GitHub.
 
@@ -10,6 +10,12 @@ By [Miguel Clavel](https://github.com/miguelclavel), Senior Product Designer. I 
 | [ai-output-review](skills/ai-output-review/SKILL.md) | Finds the quiet failures in AI written work: numbers, specifics, tone, claims, gaps | "Fact check this research summary before I send it" |
 | [case-study-short-version](skills/case-study-short-version/SKILL.md) | Writes the 30 second version of a case study from your notes, without inventing results | "Give me the short version of this project" |
 | [launch-check](skills/launch-check/SKILL.md) | Checks a site for security, search, accessibility, speed and after launch basics, with evidence | "Is my portfolio ready to launch?" |
+| [privacy-scan](skills/privacy-scan/SKILL.md) | Reads every image, every frame of every GIF and video, and every PDF for emails, phone numbers and secrets before you publish. Includes the scripts | "Is there anything private in these screenshots?" |
+| [research-synthesis](skills/research-synthesis/SKILL.md) | Themes from notes with people counts, labelled quotes, contradictions and gaps | "What are people saying in these interviews?" |
+| [ux-copy](skills/ux-copy/SKILL.md) | Honest interface copy for a specific moment, in three versions | "What should this error message say?" |
+| [experiment-plan](skills/experiment-plan/SKILL.md) | An A/B test plan with one metric, guardrails and a decision rule written before launch | "Help me test this new hero" |
+| [interaction-recipe](skills/interaction-recipe/SKILL.md) | Turns an effect on your site into a GIF, a story, a prompt and a single file demo | "Write up the hover effect on my name" |
+| [github-portfolio](skills/github-portfolio/SKILL.md) | Turns a GitHub profile into a portfolio: README, pins, live demos, share images, privacy | "Make my GitHub look like a portfolio" |
 
 ## Install
 
@@ -20,7 +26,13 @@ git clone https://github.com/miguelclavel/claude-skills-for-designers
 cp -R claude-skills-for-designers/skills/design-review ~/.claude/skills/
 ```
 
+`privacy-scan` uses macOS text recognition and ffmpeg (`brew install ffmpeg`); its scripts build themselves on first run.
+
 Claude picks a skill up on its own when your request matches its description, or you can ask for it by name.
+
+## Where they come from
+
+Each one is a job I actually do, written down so Claude does it the same way. `privacy-scan` exists because an old screen recording of my own site still showed my personal email; `interaction-recipe` and `github-portfolio` are how this GitHub was made.
 
 ## What makes a skill good
 
