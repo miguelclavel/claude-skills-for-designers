@@ -12,7 +12,7 @@
     },
     {
       "name": "ux-research-skills",
-      "source": { "source": "github", "repo": "miguelclavel/ux-research-skills" },
+      "source": { "source": "url", "url": "https://github.com/miguelclavel/ux-research-skills.git" },
       "description": "Eighteen skills for UX research, one per job: research plans, screeners, interviews, personas, journey maps, usability tests, surveys, AI browser walkthroughs and synthetic users.",
       "version": "1.0.0",
       "category": "design"
