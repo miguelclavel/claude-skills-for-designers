@@ -21,7 +21,16 @@ For research work (plans, screeners, interviews, personas, journey maps, usabili
 
 ## Install
 
-Copy any skill folder into `~/.claude/skills/` to use it everywhere, or into `.claude/skills/` inside one project:
+As a Claude Code plugin, all ten at once. In Claude Code, run:
+
+```
+/plugin marketplace add miguelclavel/claude-skills-for-designers
+/plugin install claude-skills-for-designers@miguelclavel
+```
+
+The same marketplace has the eighteen [UX research skills](https://github.com/miguelclavel/ux-research-skills): `/plugin install ux-research-skills@miguelclavel`.
+
+Or copy only the skills you want. Put a skill folder in `~/.claude/skills/` to use it everywhere, or in `.claude/skills/` inside one project:
 
 ```bash
 git clone https://github.com/miguelclavel/claude-skills-for-designers
