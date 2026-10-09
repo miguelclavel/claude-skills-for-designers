@@ -17,6 +17,8 @@ By [Miguel Clavel](https://github.com/miguelclavel), Senior Product Designer. I 
 | [interaction-recipe](skills/interaction-recipe/SKILL.md) | Turns an effect on your site into a GIF, a story, a prompt and a single file demo | "Write up the hover effect on my name" |
 | [github-portfolio](skills/github-portfolio/SKILL.md) | Turns a GitHub profile into a portfolio: README, pins, live demos, share images, privacy | "Make my GitHub look like a portfolio" |
 
+For research work (plans, screeners, interviews, personas, journey maps, usability tests, AI browser walkthroughs, synthetic users), see the sister repo **[ux-research-skills](https://github.com/miguelclavel/ux-research-skills)**.
+
 ## Install
 
 Copy any skill folder into `~/.claude/skills/` to use it everywhere, or into `.claude/skills/` inside one project:
