@@ -1,0 +1,21 @@
+{
+  "name": "miguelclavel",
+  "owner": { "name": "Miguel Clavel", "url": "https://github.com/miguelclavel" },
+  "metadata": { "description": "Claude Code skills for product designers and UX researchers, by Miguel Clavel." },
+  "plugins": [
+    {
+      "name": "claude-skills-for-designers",
+      "source": "./",
+      "description": "Ten skills for product design work: design review, AI output review, research synthesis, UX copy, experiment plans, launch checks, privacy scans and more.",
+      "version": "1.0.0",
+      "category": "design"
+    },
+    {
+      "name": "ux-research-skills",
+      "source": { "source": "github", "repo": "miguelclavel/ux-research-skills" },
+      "description": "Eighteen skills for UX research, one per job: research plans, screeners, interviews, personas, journey maps, usability tests, surveys, AI browser walkthroughs and synthetic users.",
+      "version": "1.0.0",
+      "category": "design"
+    }
+  ]
+}

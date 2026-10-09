@@ -1,0 +1,10 @@
+{
+  "name": "claude-skills-for-designers",
+  "version": "1.0.0",
+  "description": "Ten Claude Code skills for product design work: design review (heuristics and WCAG 2.2 AA), AI output review, research synthesis, UX copy, experiment plans, case study short versions, launch checks, privacy scans, interaction recipes and GitHub portfolios.",
+  "author": { "name": "Miguel Clavel", "url": "https://github.com/miguelclavel" },
+  "homepage": "https://github.com/miguelclavel/claude-skills-for-designers",
+  "repository": "https://github.com/miguelclavel/claude-skills-for-designers",
+  "license": "MIT",
+  "keywords": ["product-design", "ux-design", "design-review", "accessibility", "wcag", "ux-research", "ux-writing", "skills"]
+}
