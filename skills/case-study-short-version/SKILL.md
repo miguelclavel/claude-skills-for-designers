@@ -1,6 +1,6 @@
 ---
 name: case-study-short-version
-description: Write the short version of a design case study, three parts of two lines each, from project notes, without inventing results. Use when someone wants a case study summary, a portfolio blurb, a TL;DR for a project, resume bullets from a project, or a 30 second version of their work.
+description: 'Write the short version of a design case study, three parts of two lines each, from project notes, without inventing results. Use when someone wants a case study summary, a portfolio blurb, a TL;DR for a project, resume bullets from a project, or a 30 second version of their work.'
 ---
 
 # The short version

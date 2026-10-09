@@ -1,6 +1,6 @@
 ---
 name: ux-copy
-description: Write interface copy for a specific moment: error messages, empty states, confirmations, button labels, onboarding, consent and "why we ask" text. Use when someone asks what a screen or button should say, wants microcopy, or wants copy reviewed for clarity, tone or honesty.
+description: 'Write interface copy for a specific moment: error messages, empty states, confirmations, button labels, onboarding, consent and "why we ask" text. Use when someone asks what a screen or button should say, wants microcopy, or wants copy reviewed for clarity, tone or honesty.'
 ---
 
 # UX copy

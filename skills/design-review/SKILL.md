@@ -1,6 +1,6 @@
 ---
 name: design-review
-description: Review a screen, flow or page for usability and accessibility problems and return a ranked list of fixes. Use when someone shares a screenshot, a URL or a design and asks for a review, a critique, a heuristic evaluation, an accessibility check, or "what's wrong with this".
+description: 'Review a screen, flow or page for usability and accessibility problems and return a ranked list of fixes. Use when someone shares a screenshot, a URL or a design and asks for a review, a critique, a heuristic evaluation, an accessibility check, or "what''s wrong with this".'
 ---
 
 # Design review

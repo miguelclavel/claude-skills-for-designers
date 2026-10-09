@@ -1,6 +1,6 @@
 ---
 name: launch-check
-description: Run a pre launch check on a website for security, search, accessibility, speed and after launch basics, and report what passes and what to fix. Use before launching or relaunching a site, after a big change, or when someone asks "is my site ready", "check my site" or "audit my portfolio".
+description: 'Run a pre launch check on a website for security, search, accessibility, speed and after launch basics, and report what passes and what to fix. Use before launching or relaunching a site, after a big change, or when someone asks "is my site ready", "check my site" or "audit my portfolio".'
 ---
 
 # Launch check

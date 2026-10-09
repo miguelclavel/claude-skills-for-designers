@@ -1,6 +1,6 @@
 ---
 name: interaction-recipe
-description: Turn a website interaction or effect into a shareable recipe: a short recording as a GIF, the story of how it works and what went wrong, the exact prompt to rebuild it, and a single file live demo. Use when someone wants to document, share, open source or post about an interaction, animation or effect from their site.
+description: 'Turn a website interaction or effect into a shareable recipe: a short recording as a GIF, the story of how it works and what went wrong, the exact prompt to rebuild it, and a single file live demo. Use when someone wants to document, share, open source or post about an interaction, animation or effect from their site.'
 ---
 
 # Interaction recipe

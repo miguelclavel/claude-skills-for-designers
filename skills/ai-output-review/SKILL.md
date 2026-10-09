@@ -1,6 +1,6 @@
 ---
 name: ai-output-review
-description: Check AI generated text, research summaries, copy, code comments or prototypes for the quiet failures before they reach a stakeholder or a user. Use when someone asks to review, fact check, sanity check or proofread something an AI wrote, or before sharing any AI assisted work.
+description: 'Check AI generated text, research summaries, copy, code comments or prototypes for the quiet failures before they reach a stakeholder or a user. Use when someone asks to review, fact check, sanity check or proofread something an AI wrote, or before sharing any AI assisted work.'
 ---
 
 # AI output review

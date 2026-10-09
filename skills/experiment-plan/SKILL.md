@@ -1,6 +1,6 @@
 ---
 name: experiment-plan
-description: Turn an idea into an A/B test plan with a hypothesis, one primary metric, guardrails, run time, sample size reasoning and a decision rule written before launch. Use when someone wants to test a change, set up an experiment, plan an A/B or multivariate test, or decide whether a test result is real.
+description: 'Turn an idea into an A/B test plan with a hypothesis, one primary metric, guardrails, run time, sample size reasoning and a decision rule written before launch. Use when someone wants to test a change, set up an experiment, plan an A/B or multivariate test, or decide whether a test result is real.'
 ---
 
 # Experiment plan

@@ -1,6 +1,6 @@
 ---
 name: github-portfolio
-description: Turn a GitHub profile into a portfolio: a profile README, pinned repos, live demos, share images, and a privacy check, for designers and builders. Use when someone wants to improve their GitHub profile, make GitHub a portfolio, decide what to pin, write a profile README, or make their repos look good when shared.
+description: 'Turn a GitHub profile into a portfolio: a profile README, pinned repos, live demos, share images, and a privacy check, for designers and builders. Use when someone wants to improve their GitHub profile, make GitHub a portfolio, decide what to pin, write a profile README, or make their repos look good when shared.'
 ---
 
 # GitHub as a portfolio

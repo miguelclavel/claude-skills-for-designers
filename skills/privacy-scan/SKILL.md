@@ -1,6 +1,6 @@
 ---
 name: privacy-scan
-description: Scan screenshots, screen recordings, GIFs, videos and PDFs for email addresses, phone numbers and secrets before they're published. Use before pushing images to a public repo, posting a recording, sharing a portfolio, uploading a resume, or whenever someone asks "is there anything private in these files".
+description: 'Scan screenshots, screen recordings, GIFs, videos and PDFs for email addresses, phone numbers and secrets before they''re published. Use before pushing images to a public repo, posting a recording, sharing a portfolio, uploading a resume, or whenever someone asks "is there anything private in these files".'
 ---
 
 # Privacy scan

@@ -1,6 +1,6 @@
 ---
 name: research-synthesis
-description: Turn interview notes, survey answers, usability test notes or support tickets into themes with evidence: how many people, labelled quotes, contradictions and gaps. Use when someone shares research notes and asks for themes, insights, findings, a synthesis, an affinity map, or "what are people saying".
+description: 'Turn interview notes, survey answers, usability test notes or support tickets into themes with evidence: how many people, labelled quotes, contradictions and gaps. Use when someone shares research notes and asks for themes, insights, findings, a synthesis, an affinity map, or "what are people saying".'
 ---
 
 # Research synthesis
