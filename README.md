@@ -4,6 +4,8 @@ Ten Claude Code skills for product design work, built from my own [playbook](htt
 
 By [Miguel Clavel](https://github.com/miguelclavel), Senior Product Designer. I build with Claude Code: my [chat portfolio](https://github.com/miguelclavel/chat-portfolio), [miguelclavel.com](https://github.com/miguelclavel/miguelclavel.com) and everything in this GitHub.
 
+**Looking for a skill? [See all 28 by job](SKILLS.md)**: plan, recruit, test, make sense, design, ship, show your work. This repo and [ux-research-skills](https://github.com/miguelclavel/ux-research-skills) together.
+
 | Skill | What it does | Say something like |
 | --- | --- | --- |
 | [design-review](skills/design-review/SKILL.md) | Heuristic and WCAG 2.2 AA review of a screen, flow or page, ranked by severity, with specific fixes | "Review this checkout screen" |
